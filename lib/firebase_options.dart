@@ -41,49 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC8RQzJHNi8pUmqiAYcUrFU5sA8PSoCri0',
-    appId: '1:512093449312:web:31a460bc805c722655e705',
-    messagingSenderId: '512093449312',
-    projectId: 'flutter-notes-app-5f2d2',
-    authDomain: 'flutter-notes-app-5f2d2.firebaseapp.com',
-    storageBucket: 'flutter-notes-app-5f2d2.firebasestorage.app',
-    measurementId: 'G-C2K8C3B82D',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBFuW34ytREeAm_CTKuRfhCFVT8BovhJC4',
-    appId: '1:512093449312:android:fabc8ab23bd2ecf555e705',
-    messagingSenderId: '512093449312',
-    projectId: 'flutter-notes-app-5f2d2',
-    storageBucket: 'flutter-notes-app-5f2d2.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCVVA5LksNUNJ-oeq3CJKuMj25OJJRGexU',
-    appId: '1:512093449312:ios:f67816d5e108e3bf55e705',
-    messagingSenderId: '512093449312',
-    projectId: 'flutter-notes-app-5f2d2',
-    storageBucket: 'flutter-notes-app-5f2d2.firebasestorage.app',
-    iosBundleId: 'com.example.flutterNotesApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCVVA5LksNUNJ-oeq3CJKuMj25OJJRGexU',
-    appId: '1:512093449312:ios:f67816d5e108e3bf55e705',
-    messagingSenderId: '512093449312',
-    projectId: 'flutter-notes-app-5f2d2',
-    storageBucket: 'flutter-notes-app-5f2d2.firebasestorage.app',
-    iosBundleId: 'com.example.flutterNotesApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyC8RQzJHNi8pUmqiAYcUrFU5sA8PSoCri0',
-    appId: '1:512093449312:web:db30b201d9381cd755e705',
-    messagingSenderId: '512093449312',
-    projectId: 'flutter-notes-app-5f2d2',
-    authDomain: 'flutter-notes-app-5f2d2.firebaseapp.com',
-    storageBucket: 'flutter-notes-app-5f2d2.firebasestorage.app',
-    measurementId: 'G-PPRZFQ2ZHZ',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
-
 }
